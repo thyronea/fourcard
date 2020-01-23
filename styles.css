@@ -65,6 +65,7 @@ h3 {
   border-top-color: #ea5353;
   width: 240px;
   height: 200px;
+  border-radius: 8px;
   padding: 5px 25px;
   position: relative;
   bottom: 178px;
@@ -83,6 +84,7 @@ h3 {
   border-top-color: #fcaf4a;
   width: 240px;
   height: 200px;
+  border-radius: 8px;
   padding: 5px 25px;
   position: relative;
   bottom: 155px;
@@ -101,6 +103,7 @@ h3 {
   border-top-color: #549ef2;
   width: 240px;
   height: 200px;
+  border-radius: 8px;
   padding: 5px 25px;
   position: relative;
   bottom: 500px;
